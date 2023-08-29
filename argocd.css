@@ -5,7 +5,7 @@
     --page-and-panel-background: #dde6f7;
     --button-primary: #04122e;
     --button-secondary: #04122e;
-    --button-disabled: #0c2047;
+    --button-disabled: #384050;
     --primary: #04122e;
     --primary2: #2af6d1;
   }
@@ -49,7 +49,7 @@
   .argo-button--base-o:hover,
   .argo-button--base-o:focus {
     background: var(--button-secondary) !important;
-    color: #fff !important;
+    color: #2af6d1 !important;
     box-shadow: inset 0 0 0 1px var(--button-secondary) !important;
   }
   
@@ -62,11 +62,11 @@
   a,
   /* title of the each item in list in settings page */
 
-  .selected,
-  .top-bar__title {
-    color: var(--primary2) !important;
+  .selected {
+    color: var(--primary1) !important;
   }
 
+  .top-bar__title,
   .settings-overview__redirect-panel__title,
   .tabs__indicator {
     background: var(--primary2) !important;
