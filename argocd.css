@@ -1,10 +1,10 @@
 :root {
-    --sidebar-background: #32201b;
-    --page-and-panel-background: #f0ece8;
-    --button-primary: #7d7370;
-    --button-secondary: #7d7370;
-    --button-disabled: #968f8c;
-    --primary: #01894d;
+    --sidebar-background: #170931;
+    --page-and-panel-background: #d4cbec;
+    --button-primary: #27242d;
+    --button-secondary: #27242d;
+    --button-disabled: #403a4c;
+    --primary: #2af6d1;
   }
   
   .sidebar,
