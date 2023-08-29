@@ -1,10 +1,13 @@
+/* Asphalt Theme by Akuity */
+
 :root {
-    --sidebar-background: #170931;
-    --page-and-panel-background: #d4cbec;
-    --button-primary: #27242d;
-    --button-secondary: #27242d;
-    --button-disabled: #403a4c;
+    --sidebar-background: #9fb7ec;
+    --page-and-panel-background: #020b1d;
+    --button-primary: #020b1d;
+    --button-secondary: #020b1d;
+    --button-disabled: #0c2047;
     --primary: #2af6d1;
+    --primary2: #2af6d1;
   }
   
   .sidebar,
@@ -12,6 +15,10 @@
     background: var(--sidebar-background);
   }
   
+  .sidebar__logo img { 
+    content: url(https://www.ksmartech.com/images/common/ksmartech_logo.png);
+  }
+
   .page__content-wrapper {
     background: var(--page-and-panel-background) !important;
   }
@@ -60,5 +67,5 @@
   }
   
   .tabs__indicator {
-    background: var(--primary) !important;
+    background: var(--primary2) !important;
   }
