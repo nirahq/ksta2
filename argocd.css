@@ -60,12 +60,13 @@
   
   a,
   /* title of the each item in list in settings page */
-  .settings-overview__redirect-panel__title,
+
   .selected,
   .top-bar__title {
     color: var(--primary) !important;
   }
-  
+
+  .settings-overview__redirect-panel__title,
   .tabs__indicator {
     background: var(--primary2) !important;
   }
