@@ -1,33 +1,33 @@
 body{
-    background: black;
+    background: #3bedc3;
 }
 /* used to set a different logo */
 .nav-bar__logo img {
-    content: url(https://assets.turbologo.com/blog/en/2018/03/19085254/prozrachniy-logo-1-800x575.png);
+    content: url(https://www.ksmartech.com/images/common/ksmartech_logo.png);
 }
 .top-bar{
-    background: #232222;
+    background: #3bedc3;
 }
 .top-bar__breadcrumbs{
-    color: white;
+    color: #3bedc3;
 }
 .filters-group__panel{
-    background-color: black;
-    color: white;
+    background-color: #3bedc3;
+    color: #3bedc3;
 }
 .filter{
-    background-color: #232222;
-    color: white;
+    background-color: #3bedc3;
+    color: #3bedc3;
 }
 .filter__item{
     background-color: #232222;
-    color: white;
+    color: #3bedc3;
 }
 .applications-list__entry{
     background: #232222;
-    color: white;
+    color: #3bedc3;
 }
 
 .nav-bar__logo img {
-    content: url(https://assets.turbologo.com/blog/en/2018/03/19085254/prozrachniy-logo-1-800x575.png);
+    content: url(https://www.ksmartech.com/images/common/ksmartech_logo.png);
 }
