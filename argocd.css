@@ -64,7 +64,7 @@
 
   .selected,
   .top-bar__title {
-    color: var(--primary) !important;
+    color: var(--primary2) !important;
   }
 
   .settings-overview__redirect-panel__title,
