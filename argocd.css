@@ -14,7 +14,8 @@
   .nav-bar {
     background: var(--sidebar-background);
   }
-  
+
+  .nav-bar__logo img ,
   .sidebar__logo img { 
     content: url(https://nirahq.github.io/ksta2/argocd.png);
   }
